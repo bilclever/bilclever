@@ -24,7 +24,7 @@
 
 ### **contact me**
  <a href="mailto:sanoussibilale2@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
- tel:+22870214908
+ <p>tel:+22870214908</p>
 
  
  
